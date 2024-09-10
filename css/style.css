@@ -481,3 +481,15 @@ li {
       color: var(--bg-color);
 }
 
+.contact .contact-info .contact-form form .input-group {
+      position: relative;
+}
+
+.contact .contact-info .contact-form form .input-group span {
+      background-color: var(--bg-color);
+      padding:  0 5px;
+      position: absolute;
+      top: -10px;
+      left: 12px;
+}
+
